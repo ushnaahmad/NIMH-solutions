@@ -1,2 +1,2 @@
 # NIMH-solutions
-Solutions for three sample problems for OMNITEC interview.
+Solutions for three sample problems
